@@ -1,6 +1,6 @@
 ## Hi there! I'm Max.
 
-I'm a web developer based in Tempe, AZ, and moving soon to Madison, WI. I've been working at Arizona State University since 2019 maintaining various financial aid web sites and apps. 
+I'm a web developer based in Madison, WI. I've been working at Arizona State University since 2019 maintaining various Drupal web sites while keeping up to date with the JavaScript, React, and static site generators. 
 
 ### Specialties
 
